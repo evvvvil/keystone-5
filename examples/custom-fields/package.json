@@ -18,7 +18,7 @@
     "@arch-ui/fields": "^3.0.7",
     "@arch-ui/lozenge": "^0.0.19",
     "@arch-ui/theme": "^0.0.13",
-    "@emotion/core": "^10.1.1",
+    "@emotion/core": "^11.0.0",
     "@keystonejs/adapter-mongoose": "^11.2.1",
     "@keystonejs/app-admin-ui": "^7.5.1",
     "@keystonejs/app-graphql": "^6.3.1",
