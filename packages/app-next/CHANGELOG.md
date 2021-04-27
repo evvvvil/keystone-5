@@ -1,5 +1,13 @@
 # @keystonejs/app-next
 
+## 6.1.2
+
+### Patch Changes
+
+- [#95](https://github.com/keystonejs/keystone-5/pull/95) [`c8ff78b95`](https://github.com/keystonejs/keystone-5/commit/c8ff78b95af5d56d44bbc11c51e7cf28b81323b4) Thanks [@bladey](https://github.com/bladey)! - Renamed branch `master` to `main`.
+
+* [#93](https://github.com/keystonejs/keystone-5/pull/93) [`77bc54f3c`](https://github.com/keystonejs/keystone-5/commit/77bc54f3c4786b1c2d3ec7b6c017a6ad60cb749e) Thanks [@renovate](https://github.com/apps/renovate)! - Updated dependency `next` to `^10.1.3`.
+
 ## 6.1.1
 
 ### Patch Changes

@@ -1,5 +1,29 @@
 # keystone_demo_blog
 
+## 7.0.3
+
+### Patch Changes
+
+- [#95](https://github.com/keystonejs/keystone-5/pull/95) [`c8ff78b95`](https://github.com/keystonejs/keystone-5/commit/c8ff78b95af5d56d44bbc11c51e7cf28b81323b4) Thanks [@bladey](https://github.com/bladey)! - Renamed branch `master` to `main`.
+
+- Updated dependencies [[`c8ff78b95`](https://github.com/keystonejs/keystone-5/commit/c8ff78b95af5d56d44bbc11c51e7cf28b81323b4), [`77bc54f3c`](https://github.com/keystonejs/keystone-5/commit/77bc54f3c4786b1c2d3ec7b6c017a6ad60cb749e)]:
+  - @keystonejs/adapter-mongoose@11.2.2
+  - @keystonejs/app-admin-ui@7.5.2
+  - @keystonejs/app-graphql@6.3.2
+  - @keystonejs/app-next@6.1.2
+  - @keystonejs/app-static@5.2.2
+  - @arch-ui/layout@0.2.17
+  - @arch-ui/typography@0.0.21
+  - @keystonejs/auth-password@6.1.2
+  - @keystonejs/fields@22.1.3
+  - @keystonejs/fields-authed-relationship@1.1.2
+  - @keystonejs/fields-markdown@5.3.2
+  - @keystonejs/fields-oembed@3.2.2
+  - @keystonejs/fields-wysiwyg-tinymce@5.4.2
+  - @keystonejs/file-adapters@7.1.2
+  - @keystonejs/keystone@19.3.3
+  - @keystonejs/server-side-graphql-client@2.1.2
+
 ## 7.0.2
 
 ### Patch Changes
