@@ -29,8 +29,9 @@ module.exports = class CloudinaryAdapter {
    */
   save({ stream, filename, id }) {
     // Push to cloudinary
+    console.log("saving to cloudinary!");
     return uploadStream(stream, {
-      public_id: id,
+      public_id: fileName,
       folder: this.folder,
       // Auth
       api_key: this.apiKey,
